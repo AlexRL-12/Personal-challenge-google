@@ -9,7 +9,7 @@ La aplicacion cuenta con dos espacios, uno la parte del servidor qu ese encarga 
 
 ## Instalación en el client/front
 
-1. Aqui debe abrir una nueva terminal y luego de esto ir con `cd client` ala carpeta dek cliente.
+1. Aqui debe abrir una nueva terminal y luego de esto ir con `cd client` a la carpeta del cliente.
 2. Luego de estar en la carpeta Instala las dependencias: `npm install` o `npm i`
 
 ## Uso
